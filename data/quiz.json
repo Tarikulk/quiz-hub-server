@@ -1,0 +1,92 @@
+[
+  {
+    "question":"React is mainly used for _______ ",
+    "category_id": 1,
+    "option":["Building User Interfaces", "Building Database", "Building User Data Flow", "Building Shop"],
+    "correctAnswer":"Building User Interfaces"
+  },
+  {
+    "question":"How do you declare a class called `myClass` in react ?",
+    "category_id": 2,
+    "option":["class = myClass", "Class = myClass", "className = myClass", "I don't know"],
+    "correctAnswer":"className = myClass"
+  },
+  {
+    "question":"How will create a state with a default value “JingaLala”?",
+    "category_id": 3,
+    "option":["const { name, setName } =  useState(“JingaLala”);", "[name, setName] =  UseState(“JingaLala”);", "const ( name, setName ) =  useState(“JingaLala”);", "const [name, setName] =  useState(“JingaLala”);"],
+    "correctAnswer":"const [name, setName] =  useState(“JingaLala”);"
+  },
+  {
+    "question":"Why can’t we declare a class with the “class” keyword in React?",
+    "category_id": 4,
+    "option":["We  should use class instead of className", "class is a reserved keyword in javascript", "We can use any name", "I don't know"],
+    "correctAnswer":"class is a reserved keyword in javascript"
+  },
+  {
+    "question":"What is && JSX?",
+    "category_id": 5,
+    "option":["Javascript Html", "Javascript XML", "React XML", "Javascript Http"],
+    "correctAnswer":"Javascript XML"
+  },
+  {
+    "question":"What is JSX?",
+    "category_id": 6,
+    "option":["Javascript Html", "Javascript XML", "React XML", "Javascript Http"],
+    "correctAnswer":"Javascript XML"
+  },
+  {
+    "question":"When creating a component in React, the first letter of that function name should be in",
+    "category_id": 7,
+    "option":["Uppercase", "Lowercase", "I can use Both", "I don't know"],
+    "correctAnswer":"Uppercase"
+  },
+  {
+    "question":"Which method will you use in react to display components for each object in an array?",
+    "category_id": 8,
+    "option":["filter", "find", "map", "for"],
+    "correctAnswer":"map"
+  },
+  {
+    "question":"Which one is not a type of variable?",
+    "category_id": 9,
+    "option":["boolean", "bulbuli", "number", "string"],
+    "correctAnswer":"bulbuli"
+  },
+  {
+    "question":"Which method is used to convert a string to an integer?",
+    "category_id": 10,
+    "option":["parseFloat()", "parseString()", "parseNumber()", "parseInt()"],
+    "correctAnswer":"parseInt()"
+  },
+  {
+    "question":"Which company developed JavaScript?",
+    "category_id": 11,
+    "option":["Netscape", "Google", "Facebook", "Firefox"],
+    "correctAnswer":"Netscape"
+  },
+  {
+    "question":"What does it mean by writing two plus signs after a number type variable?",
+    "category_id": 12,
+    "option":["Set the value to 0", "Increase the value by 1", "Decrease the value by 1","White plus toothpaste"],
+    "correctAnswer":"Increase the value by 1"
+  },
+  {
+    "question":"Which one is an acceptable variable name?",
+    "category_id": 13,
+    "option":["mobile-price", "1bookName","user9", "temperature"],
+    "correctAnswer":"user9"
+  },
+  {
+    "question":"What will be the output of the code: console.log(17%5)",
+    "category_id": 14,
+    "option":["7", "2","5", "3"],
+    "correctAnswer":"2"
+  },
+  {
+    "question":"If you have a var age = 21; and then you write age += 8; now what will be the value of the variable age?",
+    "category_id": 15,
+    "option":["21", "8","218", "29"],
+    "correctAnswer":"29"
+  }
+]
